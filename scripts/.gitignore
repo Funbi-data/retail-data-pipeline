@@ -1,0 +1,16 @@
+retail-data-pipeline/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   └── ecommerce_dataset.csv
+│
+├── scripts/
+│   ├── extract.py
+│   ├── transform.py
+│   └── load.py
+│
+└── sql/
+    └── analytics_queries.sql
